@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f05b6989b4fec60053f3f2459aaaaa32",
+    "revision": "9bce383fea21392bb9f240a359e1ca44",
     "url": "/ram-viz/index.html"
   },
   {
-    "revision": "fefcd5971d51b6be9b3a",
+    "revision": "369ad9842daa57b1234a",
     "url": "/ram-viz/static/css/main.e719fac6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ram-viz/static/js/2.8669f087.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fefcd5971d51b6be9b3a",
-    "url": "/ram-viz/static/js/main.34d9acd7.chunk.js"
+    "revision": "369ad9842daa57b1234a",
+    "url": "/ram-viz/static/js/main.0315821a.chunk.js"
   },
   {
     "revision": "efb82134989a71f5c67c",

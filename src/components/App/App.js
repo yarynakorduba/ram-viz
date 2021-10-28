@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 import BEM from "../../helpers/BEM";
-import RAMVisualization from "../RAMVisualization";
+import RAMVisualization from "../RamVisualization";
 import RoundArrow from "../../icons/RoundArrow";
 
 import "./App.scss";

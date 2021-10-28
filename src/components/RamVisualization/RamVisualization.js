@@ -5,7 +5,7 @@ import BEM from "../../helpers/BEM";
 import MemoryControls from "../MemoryControls";
 import VisualizationSettings from "../VisualizationSettings";
 
-import "./RAMVisualization.scss";
+import "./RamVisualization.scss";
 
 const b = BEM("RAMVisualization");
 

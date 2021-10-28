@@ -1,1 +1,1 @@
-export { default } from "./RAMVisualization";
+export { default } from "./RamVisualization";

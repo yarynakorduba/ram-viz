@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/ram-viz/static/css/main.928d178b.chunk.css",
-    "main.js": "/ram-viz/static/js/main.9cdd9a34.chunk.js",
-    "main.js.map": "/ram-viz/static/js/main.9cdd9a34.chunk.js.map",
+    "main.css": "/ram-viz/static/css/main.855751bc.chunk.css",
+    "main.js": "/ram-viz/static/js/main.18d76364.chunk.js",
+    "main.js.map": "/ram-viz/static/js/main.18d76364.chunk.js.map",
     "runtime-main.js": "/ram-viz/static/js/runtime-main.77b5c6db.js",
     "runtime-main.js.map": "/ram-viz/static/js/runtime-main.77b5c6db.js.map",
-    "static/js/2.7c7ecc74.chunk.js": "/ram-viz/static/js/2.7c7ecc74.chunk.js",
-    "static/js/2.7c7ecc74.chunk.js.map": "/ram-viz/static/js/2.7c7ecc74.chunk.js.map",
+    "static/js/2.ab6a5bcc.chunk.js": "/ram-viz/static/js/2.ab6a5bcc.chunk.js",
+    "static/js/2.ab6a5bcc.chunk.js.map": "/ram-viz/static/js/2.ab6a5bcc.chunk.js.map",
     "index.html": "/ram-viz/index.html",
-    "precache-manifest.b0726e7397a70c23bfddaf1f42d011db.js": "/ram-viz/precache-manifest.b0726e7397a70c23bfddaf1f42d011db.js",
+    "precache-manifest.f5076636fb3b5e8007d2d5579c7b6e3f.js": "/ram-viz/precache-manifest.f5076636fb3b5e8007d2d5579c7b6e3f.js",
     "service-worker.js": "/ram-viz/service-worker.js",
-    "static/css/main.928d178b.chunk.css.map": "/ram-viz/static/css/main.928d178b.chunk.css.map",
-    "static/js/2.7c7ecc74.chunk.js.LICENSE.txt": "/ram-viz/static/js/2.7c7ecc74.chunk.js.LICENSE.txt"
+    "static/css/main.855751bc.chunk.css.map": "/ram-viz/static/css/main.855751bc.chunk.css.map",
+    "static/js/2.ab6a5bcc.chunk.js.LICENSE.txt": "/ram-viz/static/js/2.ab6a5bcc.chunk.js.LICENSE.txt",
+    "static/media/memoryBank.svg": "/ram-viz/static/media/memoryBank.23c42a43.svg",
+    "static/media/memoryBankRasCas.svg": "/ram-viz/static/media/memoryBankRasCas.dc6a5e8d.svg",
+    "static/media/memoryBankRowCol.svg": "/ram-viz/static/media/memoryBankRowCol.4feac339.svg",
+    "static/media/memoryBlock.svg": "/ram-viz/static/media/memoryBlock.7657086e.svg",
+    "static/media/memoryBlocks.svg": "/ram-viz/static/media/memoryBlocks.31663eda.svg",
+    "static/media/memoryCellCircuit.svg": "/ram-viz/static/media/memoryCellCircuit.375091a1.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.77b5c6db.js",
-    "static/js/2.7c7ecc74.chunk.js",
-    "static/css/main.928d178b.chunk.css",
-    "static/js/main.9cdd9a34.chunk.js"
+    "static/js/2.ab6a5bcc.chunk.js",
+    "static/css/main.855751bc.chunk.css",
+    "static/js/main.18d76364.chunk.js"
   ]
 }

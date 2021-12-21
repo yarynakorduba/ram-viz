@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ram-viz/static/css/main.68157584.chunk.css",
+    "main.css": "/ram-viz/static/css/main.f2073a17.chunk.css",
     "main.js": "/ram-viz/static/js/main.eb83c9d0.chunk.js",
     "main.js.map": "/ram-viz/static/js/main.eb83c9d0.chunk.js.map",
     "runtime-main.js": "/ram-viz/static/js/runtime-main.77b5c6db.js",
@@ -8,9 +8,9 @@
     "static/js/2.365dcf98.chunk.js": "/ram-viz/static/js/2.365dcf98.chunk.js",
     "static/js/2.365dcf98.chunk.js.map": "/ram-viz/static/js/2.365dcf98.chunk.js.map",
     "index.html": "/ram-viz/index.html",
-    "precache-manifest.bb276a6469e3b5db6ae3692e0dfacc8b.js": "/ram-viz/precache-manifest.bb276a6469e3b5db6ae3692e0dfacc8b.js",
+    "precache-manifest.c47b6084aa289ac40dbe9bd8fc4a4cd6.js": "/ram-viz/precache-manifest.c47b6084aa289ac40dbe9bd8fc4a4cd6.js",
     "service-worker.js": "/ram-viz/service-worker.js",
-    "static/css/main.68157584.chunk.css.map": "/ram-viz/static/css/main.68157584.chunk.css.map",
+    "static/css/main.f2073a17.chunk.css.map": "/ram-viz/static/css/main.f2073a17.chunk.css.map",
     "static/js/2.365dcf98.chunk.js.LICENSE.txt": "/ram-viz/static/js/2.365dcf98.chunk.js.LICENSE.txt",
     "static/media/memoryBank.svg": "/ram-viz/static/media/memoryBank.23c42a43.svg",
     "static/media/memoryBankRasCas.svg": "/ram-viz/static/media/memoryBankRasCas.dc6a5e8d.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.77b5c6db.js",
     "static/js/2.365dcf98.chunk.js",
-    "static/css/main.68157584.chunk.css",
+    "static/css/main.f2073a17.chunk.css",
     "static/js/main.eb83c9d0.chunk.js"
   ]
 }

@@ -34,9 +34,9 @@ const ClockControls = () => {
             type="number"
             className={b("tactsNumber")}
             value={tacts}
-            onChange={(ev) => setTactsAct(ev.target.value)}
+            onChange={(ev) => setTactsAct(+ev.target.value)}
           />{" "}
-          Tacts <span className={b("tactsNote")}>determined by the hardware producer</span>
+          Cycles <span className={b("tactsNote")}>determined by the hardware producer</span>
         </div>
       </label>
       <Pins binaryData={clock} setBinaryData={handleClock} />
